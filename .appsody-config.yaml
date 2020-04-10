@@ -1,0 +1,2 @@
+project-name: cp4apps5
+stack: docker.io/kabanero/java-microprofile:0.2
